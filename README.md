@@ -15,6 +15,6 @@
 - Simple and clear result visualization
 
 ### 🖼 Example Screenshots
-![Interface Example](interface1.png)  
-![Prediction 1 Example](interface2.png)
-![Prediction 2 Example](interface3.png)
+![Interface Example](/examples/interface1.png)  
+![Prediction 1 Example](/examples/interface2.png)
+![Prediction 2 Example](/examples/interface3.png)
