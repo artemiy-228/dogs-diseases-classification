@@ -7,7 +7,6 @@
 ### 🔹 How it works
 - Input: **30 dog symptoms**  
 - Output: **8 possible diseases**  
-- Optional: add photos for visual examples
 
 ### 📊 Features
 - User-friendly interface built with Vue.js  
