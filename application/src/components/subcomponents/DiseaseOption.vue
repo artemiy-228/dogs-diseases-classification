@@ -3,7 +3,7 @@
         <div class="top">
             <div class="pos-disease">
                 <p class="name">{{ name }}</p>
-                <p class="pos" v-if="best">Вероятная болезнь</p>
+                <p class="pos" v-if="best">Вероятный вирус</p>
             </div>
 
             <div class="percent" :class="levelClass">

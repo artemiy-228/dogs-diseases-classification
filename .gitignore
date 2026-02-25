@@ -333,3 +333,11 @@ Thumbs.db
 .Trash-*
 Desktop.ini
 ehthumbs.db
+Cargo.lock
+vite.config.js
+jsonconfig.json
+package.json
+package-lock.json
+.vite
+.vscode
+dist
